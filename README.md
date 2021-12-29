@@ -1,4 +1,4 @@
 A Christmass tree based on python
 
-![Tree](/screenshot/tree.jpg?raw=true)
+![Tree](/screenshot/screenshot.jpg?raw=true)
 
