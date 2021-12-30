@@ -13,7 +13,7 @@ while row < num:
     print()
 print("        |||  [*]  ")
 print("    [*] ||| [*][*]")
-print("------------------")
+print("-------------------")
 print()
 print("HAPPY CHRISTMAS!")
 print("Designed by Alwin X")
