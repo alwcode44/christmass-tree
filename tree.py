@@ -11,8 +11,8 @@ while row < num:
         star = star-1
     row = row+1
     print()
-print("       |||  [*]  ")
-print("   [*] ||| [*][*]")
+print("        |||  [*]  ")
+print("    [*] ||| [*][*]")
 print("------------------")
 print()
 print("HAPPY CHRISTMAS!")
